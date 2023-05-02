@@ -66,7 +66,7 @@ body {
   flex-direction: column;
   flex: 1;
   margin: 0 auto;
-  max-width: 45rem;
+  max-width: 70rem;
   padding: 0 0.5rem;
   overflow-x: hidden;
   word-break: break-word;
@@ -108,14 +108,14 @@ h3 {
 
 /* Format navigation */
 nav {
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 2;
   padding: 1rem 0;
 }
 
 nav a {
   margin: 1rem 1rem 0 0;
-  border: 1px solid var(--border);
+  /*border: 1px solid var(--border);*/
   border-radius: 5px;
   color: var(--text) !important;
   display: inline-block;
@@ -151,6 +151,17 @@ h1 {
   margin-top: calc(var(--line-height) * 1.5rem);
 }
 
+body a {
+  margin: 1rem 1rem 0 0;
+  /*border: 1px solid var(--border);*/
+  border-radius: 5px;
+  color: var(--text) !important;
+  display: inline-block;
+  padding: 0.1rem 1rem;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
 h2 {
   font-size: calc(
     var(--base-fontsize) * var(--header-scale) * var(--header-scale) *
@@ -166,10 +177,13 @@ h3 {
   margin-top: calc(var(--line-height) * 1.5rem);
 }
 
+
 h4 {
   font-size: calc(var(--base-fontsize) * var(--header-scale));
   margin-top: calc(var(--line-height) * 1.5rem);
 }
+
+
 
 h5 {
   font-size: var(--base-fontsize);
@@ -181,15 +195,19 @@ h6 {
   margin-top: calc(var(--line-height) * 1.5rem);
 }
 
+
 /* Format links & buttons */
-a,
+
+a:hover {
+  color : var(--accent) !important; 
+  text-decoration: underline;
+}
+
 a:visited {
   color: var(--accent);
 }
 
-a:hover {
-  text-decoration: none;
-}
+
 
 a button,
 button,
@@ -204,7 +222,7 @@ input[type="button"] {
   color: var(--bg);
   padding: 0.7rem 0.9rem;
   margin: 0.5rem 0;
-  transition: 0.4s;
+  transition: 0s;
 }
 
 a button[disabled],
