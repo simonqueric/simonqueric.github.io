@@ -55,6 +55,7 @@
 html {
   /* Set the font globally */
   font-family: var(--sans-font);
+  font-size: 1.15vw;
 }
 
 /* Make the body a nice central block */
