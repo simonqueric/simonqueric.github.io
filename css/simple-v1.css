@@ -195,6 +195,11 @@ h6 {
   margin-top: calc(var(--line-height) * 1.5rem);
 }
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+} 
+
 
 /* Format links & buttons */
 
