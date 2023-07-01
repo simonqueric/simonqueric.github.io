@@ -55,7 +55,7 @@
 html {
   /* Set the font globally */
   font-family: var(--sans-font);
-  font-size: 1.15vw;
+  font-size: 1vw;
 }
 
 /* Make the body a nice central block */
@@ -431,10 +431,10 @@ textarea {
     width: 100%;
   }
   html {
-    font-size: 1em;
+    font-size: 1.25vw;
   }
   h1 {
-    font-size: 2rem ; 
+    font-size: 2.5vw ; 
   }
 }
 
