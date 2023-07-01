@@ -47,6 +47,8 @@
   img,
   video {
     opacity: 0.6;
+    max-width: 100%;
+    display: block;
   }
 }
 
@@ -416,19 +418,23 @@ textarea {
 }
 
 /* Makes input fields wider on smaller screens */
-@media only screen  and (max-width: 767px){
+@media only screen and (max-width: 767px){
   textarea,
   select,
   input {
     width: 100%;
+  }
+  html {
+    font-size: 1em;
+  }
+  h1 {
+    font-size: 2rem ; 
   }
   p {
     font-size: 16px;
     line-height: 1.4;
     margin-bottom: 10px;
   }
-
-
 
 }
 
