@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://simonqueric.github.io/sitemap.xml
