@@ -17,14 +17,14 @@
       institution: ENS Paris-Saclay, Gif-sur-Yvette, France
       year: 2023-2024
       description:
-        - Research focus master of science in Applied Mathematics and Machine Learning. It is considered as one of France's best Msc in Machine Learning.
+        - Research focus master of science in Applied Mathematics and Machine Learning.
     - title: Engineering degree
       institution: Télécom Paris, Palaiseau, France
       year: 2021-2024
       icon : lgo-tp.png
       description:
-        - Télécom Paris is one of France's top engineering schools. It's considered as the best school in digital sciences in France.Télécom Paris is one of France's top engineering schools. It's considered as the best school in digital sciences in France.
-        - I followed courses in Probability, Statistics, Machine Learning, Data Science
+        - Télécom Paris is considered as the best school in digital sciences in France.
+        - I was trained in Probability, Statistics, Signal Processing, Machine Learning & Data Science
 
 - title: Experience
   type: time_table
