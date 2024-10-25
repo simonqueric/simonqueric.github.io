@@ -7,6 +7,8 @@
       value: 19th October 2001
     - name: Languages
       value: French, English
+    - name: Mail
+      value: simon dot queric at telecom-paris dot fr 
 
 - title: Education
   type: time_table
