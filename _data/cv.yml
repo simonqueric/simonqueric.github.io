@@ -38,7 +38,7 @@
       institution : Hôpital National des Quinze-Vingts, Paris, France.
       year: 7/2023 - 8/2023
       description : 
-        - Design and improvement of a segmentation algorithm of retina blood vessels in retina images obtained by Laser Doppler Holography. Experimenting U-Net for retina vessels segmentation. 
+        - Design of a segmentation algorithm of retina blood vessels in retina images obtained by Laser Doppler Holography. Experimenting U-Net for retina vessels segmentation and comparing it to the Frangi filter.
 
     - title: Oral examiner in mathematics/Colleur en mathématiques
       institution: Lycée Charlemagne, Paris, France
