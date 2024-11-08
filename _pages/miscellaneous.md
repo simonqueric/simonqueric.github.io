@@ -9,3 +9,4 @@ display_categories:
 horizontal: false
 ---
 
+- Short history of the blues in french : <a href="/assets/pdf/intro-blues.pdf"> [PDF] </a>
