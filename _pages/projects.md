@@ -17,10 +17,9 @@ Summer 2023, Paris - <b>1st year of Msc internship</b> at L'Hôpital des Quinze 
 
 <div style="display: flex; align-items: center; background-color: #222; padding: 20px; border-radius: 8px; color: #ddd;">
   <!-- Image on the left -->
-  <img src="https://example.com/image.jpg" alt="Tree diagram" style="width: 80px; margin-right: 20px;">
+  <img src="/assets/img/vessel-seg-final.png" alt="" style="width: 80px; margin-right: 20px;">
   <!-- Text on the right -->
   <div>
     <strong style="font-size: 18px;">TEST</strong><br>
-
   </div>
 </div>
