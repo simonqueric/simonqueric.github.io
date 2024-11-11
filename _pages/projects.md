@@ -14,3 +14,18 @@ horizontal: false
 
 - <div style="text-align: center;"> <img title="result" alt="Alt text" src="/assets/img/vessel-seg-final.png" width="350" height="110"> </div>  
 Summer 2023, Paris - <b>1st year of Msc internship</b> at L'Hôpital des Quinze Vingts. <a href="/projects/retina-vessel-seg/" > Retina Vessel Segmentation in LDH images using Deep Learning </a> 
+
+ <div class="row">
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+</div> 
