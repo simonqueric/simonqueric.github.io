@@ -8,27 +8,14 @@
     - name: Languages
       value: French, English
     - name: Contact
-      value: simon dot queric at telecom-paris dot fr 
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Msc of science <a href="https://www.master-mva.com/"> MVA </a>
-      institution: ENS Paris-Saclay, Gif-sur-Yvette, France
-      year: 2023-2024
-      description:
-        - Research focus master of science in Applied Mathematics and Machine Learning.
-    - title: Engineering degree
-      institution: Télécom Paris, Palaiseau, France
-      year: 2021-2024
-      icon : lgo-tp.png
-      description:
-        - Télécom Paris is considered as the best school in digital sciences in France.
-        - I was trained in Probability, Statistics, Signal Processing, Machine Learning & Data Science
+      value: simon dot queric at inria dot fr 
 
 - title: Experience
   type: time_table
   contents:
+    - title: PhD candidate
+      institution : Inria Sophia Antipolis & 3IA Côte d’Azur
+      year: 01/2025 - ongoing
     - title: Research Student
       institution : Polytechnique Montréal, Montréal, Canada.
       year: 5/2024 - 9/2024
@@ -46,7 +33,23 @@
       description:
         - As an oral examiner in mathematics, I worked with 3 undergraduate students 1 hour every week.
         - You can find <a href="/assets/pdf/exercices_colles.pdf"> here </a> the link to my exercise booklet. 
- 
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Msc of science <a href="https://www.master-mva.com/"> MVA </a>
+      institution: ENS Paris-Saclay, Gif-sur-Yvette, France
+      year: 2023-2024
+      description:
+        - Research focus master of science in Applied Mathematics and Machine Learning.
+    - title: Engineering degree
+      institution: Télécom Paris, Palaiseau, France
+      year: 2021-2024
+      icon : lgo-tp.png
+      description:
+        - Télécom Paris is considered as the best school in digital sciences in France.
+        - I was trained in Probability, Statistics, Signal Processing, Machine Learning & Data Science
+
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
