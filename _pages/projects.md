@@ -10,6 +10,6 @@ horizontal: false
 ---
 
 ### Master projects
-- May - September 2024, Montréal, <b>Research internship</b> at Polytechnique Montréal, supervised by Julien Cohen-Adad. The topic was about lumbar pain diagnosis in MRI images. 
+- May - September 2024, Montréal, <b>Research internship</b> at Polytechnique Montréal, supervised by Julien Cohen-Adad. Research on lumbar pain diagnosis in MRI images. 
 
 - Summer 2023, Paris - <b>1st year of Msc internship</b> at L'Hôpital des Quinze Vingts. <a href="/projects/retina-vessel-seg/" > Retina Vessel Segmentation in LDH images using Deep Learning </a> 
