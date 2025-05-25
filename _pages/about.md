@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Engineering student in Machine Learning and Data Science
+subtitle: PhD candidate in Statistics/Machine Learning for protein science
 
 profile:
   align: right
