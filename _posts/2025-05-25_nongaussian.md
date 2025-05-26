@@ -9,7 +9,7 @@ giscus_comments: false
 related_posts: false
 ---
 
-A gaussian vector is a multivariate random variable $X_{1:d} \in \mathbb{R}^d$ such that for any $a_{1:d}\in \mathbb{R}^d$, $a^T X$ is a normal distributed random variable. 
+A gaussian vector is a multivariate random variable $X_{1:d} \in \mathbb{R}^d$ such that for any $ a_{1:d} \in \mathbb{R}^d $, $a^T X$ is a normal distributed random variable. 
 Following this definition, it's clear that the marginals of $X$ are normal distributed, but the converse is not true as showing below.
 
 {::nomarkdown}
