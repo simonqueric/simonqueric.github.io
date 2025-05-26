@@ -14,4 +14,4 @@ horizontal: false
 
 - Summer 2023, Paris - <b>1st year of Msc internship</b> at L'Hôpital des Quinze Vingts. <a href="/projects/retina-vessel-seg/" > Retina Vessel Segmentation in LDH images using Deep Learning </a> 
 
-- M2 projects : https://github.com/simonqueric/MVA 
+- M2 projects : <a href="https://github.com/simonqueric/MVA" >  https://github.com/simonqueric/MVA </a>
