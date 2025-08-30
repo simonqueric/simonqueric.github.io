@@ -13,9 +13,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: PhD candidate
+    - title: Research Engineer
       institution : Inria Sophia Antipolis & 3IA Côte d’Azur
-      year: 01/2025 - ongoing
+      year: 01/2025 - 10/2025
+      description : 
+      - Development of Hit and Run and motion planning method, inspired from robotics, for predicting intermediate structures between two protein conformations. Supervised by Frédéric Cazals
     - title: Research Student
       institution : Polytechnique Montréal, Montréal, Canada.
       year: 5/2024 - 9/2024
