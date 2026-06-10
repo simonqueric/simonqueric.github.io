@@ -15,4 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Simon Queric, I am an engineer graduated from <a href="https://www.telecom-paris.fr/">Télécom Paris</a> and I hold a Msc in Machine Learning (Maths, Vision, Learning) from ENS Paris-Saclay. I'm currently working in the Inria ABS team as a Research Engineer.
+I'm Simon Queric, a 1st year PhD candidate under the supervision of <a href="https://math.univ-cotedazur.fr/u/cbouveyr/"> Charles Bouveyron </a> and <a href="https://math.univ-cotedazur.fr/u/mcorneli/"> Marco Corneli </a> in the Inria Maasai team. My main research interest include statistical machine learning, optimal transport and analysis of graph data.   
+
+I am also an engineer graduated from <a href="https://www.telecom-paris.fr/">Télécom Paris</a> and I hold a Msc in Machine Learning (Maths, Vision, Learning) from ENS Paris-Saclay. 
