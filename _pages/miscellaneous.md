@@ -11,4 +11,3 @@ horizontal: true
 
 - Undergraduate exercices in maths : <a href="/assets/pdf/exercices_colles.pdf"> [PDF] </a>
 - Main results of M1 course in probability : <a href="/assets/pdf/memo_proba-2.pdf"> [PDF] </a>
-- Handwritten notes of an optimal transport course : <a href="/assets/pdf/OT.pdf"> [PDF] </a>
